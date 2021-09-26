@@ -1,6 +1,4 @@
-TODO : ADD tech_pm, FINISH this.  
-As in Fantastic Bits, I will be splitting this into two post mortems, this one will contain ideas that I considered, used, discarded and those that can be used in the future.  
-  
+
 __Table of Contents__  
 1) Introduction.  
 2) To Bronze.  
